@@ -6,7 +6,8 @@ has_children: true
 permalink: /docs/Recherche
 ---
 
-# UI Components
+# Recherche
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+SMART on FHIR ist ein neus Konzept, welches im deutschsprachigen Raum noch nicht weitverbreitet ist. Um die aktullen Stand der Technologie zu überblicken wird ein ausführliche unsystematische Recherche durchgeführt. Ziel es die neue Technologie zu verstehen und Open-Source Umsetzungsmöglichkeiten zu sichten.
+
 {: .fs-6 .fw-300 }
